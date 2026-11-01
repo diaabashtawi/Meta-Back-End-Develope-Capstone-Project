@@ -12,7 +12,7 @@ This capstone project was completed as part of the Meta Back-End Developer Certi
   <img src="assets/meta-certificate.jpg" alt="Certificate preview" width="900" />
 </p>
 
-Verify the certificate: [coursera.org/verify/professional-cert/YHMPRCM43SQC]([https://coursera.org/verify/professional-cert/YHMPRCM43SQC](https://coursera.org/share/fb21a6cfc546de910f2ac04bedd8a252))
+Verify the certificate: [View on Coursera](https://coursera.org/share/fb21a6cfc546de910f2ac04bedd8a252)
 
 ## Project Overview
 
