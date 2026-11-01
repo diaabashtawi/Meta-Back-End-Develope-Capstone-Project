@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/meta-certificate.svg" alt="Deya Bakheet Meta Back-End Developer Certificate" width="900" />
+  <img src="assets/meta-certificate.jpg" alt="Deya Bakheet Meta Back-End Developer Certificate" width="900" />
 </p>
 
 # Little Lemon Restaurant Capstone
@@ -13,7 +13,7 @@ This project demonstrates full-stack backend development capabilities using Pyth
 This capstone project was completed as part of the Meta Back-End Developer Certificate program.
 
 <p align="center">
-  <img src="assets/meta-certificate.svg" alt="Certificate preview" width="900" />
+  <img src="assets/meta-certificate.jpg" alt="Certificate preview" width="900" />
 </p>
 
 ## Project Overview
