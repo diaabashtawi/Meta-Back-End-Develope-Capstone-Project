@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/meta-certificate.jpg" alt="Deya Bakheet Meta Back-End Developer Certificate" width="900" />
-</p>
-
 # Little Lemon Restaurant Capstone
 
 A Django-based restaurant booking and menu management application developed as the capstone project for the Meta Back-End Developer Certificate on Coursera.
@@ -15,6 +11,8 @@ This capstone project was completed as part of the Meta Back-End Developer Certi
 <p align="center">
   <img src="assets/meta-certificate.jpg" alt="Certificate preview" width="900" />
 </p>
+
+Verify the certificate: [coursera.org/verify/professional-cert/YHMPRCM43SQC]([https://coursera.org/verify/professional-cert/YHMPRCM43SQC](https://coursera.org/share/fb21a6cfc546de910f2ac04bedd8a252))
 
 ## Project Overview
 
